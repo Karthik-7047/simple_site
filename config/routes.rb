@@ -3,4 +3,6 @@ Rails.application.routes.draw do
 
   get "about",   to: "page#about"
   get "contact", to: "page#contact"
+  get "services", to: "page#services"
+  get "portfolio", to: "page#portfolio"
 end

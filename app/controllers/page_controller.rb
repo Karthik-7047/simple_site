@@ -7,4 +7,10 @@ class PageController < ApplicationController
 
   def contact
   end
+
+  def services
+  end
+
+  def portfolio
+  end
 end
